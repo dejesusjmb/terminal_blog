@@ -1,0 +1,11 @@
+This is a terminal blog using Python and MongoDB in reference to the guide that can be found in https://www.udemy.com/the-complete-python-web-course-learn-by-building-8-apps/
+
+User can do the following:
+1. Create own blog account
+2. View blogs from different users
+3. Write own blogs and Posts
+4. View own blog posts and other's blog posts as well
+
+Please ensure that you have a running MongoDB connection to your localhost before running the program.
+
+Many thanks to Udemy.
